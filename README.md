@@ -1,7 +1,7 @@
-# substrate-lfs
-[Substrate Large File Storage](https://github.com/paritytech/substrate-lfs/)
+# tetcore-lfs
+[Tetcore Large File Storage](https://github.com/tetcoin/tetcore-lfs/)
 
-A substrate extension to allow storing static data (like assets) along side your chain.
+A tetcore extension to allow storing static data (like assets) along side your chain.
 
 TODO: license
 
