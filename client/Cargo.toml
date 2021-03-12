@@ -1,5 +1,5 @@
 [package]
-name = "sc-lfs"
+name = "tetcore-lfs"
 version = "0.1.0"
 authors = ["Parity Technologies <admin@parity.io>"]
 description = "Large File Storage for Substrate"
